@@ -1,0 +1,11 @@
+numpy==1.24.3
+tqdm
+scikit-learn==1.2.2
+pandas==2.0.3
+joblib
+torch==2.0.0
+huggingface-hub==0.19.4
+tokenizers==0.15.0
+transformers==4.36.0
+einops==0.7.0
+accelerate==0.25.0
